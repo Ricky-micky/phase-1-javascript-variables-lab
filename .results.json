@@ -5,8 +5,8 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2024-09-24T11:37:03.898Z",
-    "end": "2024-09-24T11:37:04.286Z",
+    "start": "2024-10-01T09:01:55.516Z",
+    "end": "2024-10-01T09:01:55.904Z",
     "duration": 388
   },
   "tests": [
@@ -34,7 +34,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -80,7 +80,7 @@
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
